@@ -37,34 +37,3 @@ body {
   z-index: -1;
   animation: fadeIn 0.5s linear;
 }
-
-/* .js-clock {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 50px;
-  font-size: 50px;
-  color: silver;
-}
-
-.js-greetings {
-  display: flex;
-  justify-content: center;
-  font-size: 30px;
-  color: grey;
-}
-
-.js-form {
-  display: flex;
-  justify-content: center;
-  margin: 50px;
-}
-
-.js-toDoForm {
-  display: flex;
-  justify-content: center;
-  bottom: 100px;
-}
-
-ul {
-  justify-content: center;
-} */
